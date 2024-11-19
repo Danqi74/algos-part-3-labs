@@ -1,0 +1,9 @@
+# C
+clang -o <name> <name>.c
+./<name>
+# C++
+clang++ -std=c++17 -stdlib=libc++ -o <name> <name>.cpp
+./<name>
+# Rust
+rustc <name>.rs
+./<name>

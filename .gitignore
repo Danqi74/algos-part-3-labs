@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+lab_1/lab_1
+lab_10/lab_10
+lab_2/lab_2
+lab_3/lab_3
+lab_4/lab_4
+lab_5/lab_5
+lab_6/lab_6
+lab_7/lab_7
+lab_8/lab_8
+lab_9/lab_9
+.DS_Store
+.vscode
